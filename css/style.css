@@ -1,0 +1,142 @@
+body{
+    background-image: url("../img/bg-2.png");
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+
+.corpo{
+    width: 960px;
+    height: 100%;
+    margin: auto;    
+}
+
+
+.corpo nav{
+    height: 50px;
+    background-color: orange;
+    margin-bottom: 20px;
+}
+.navLeft li{
+    color: white;
+    margin: 15px 5px auto 5px;
+    list-style: none;
+    display: inline;
+    float: left;
+}
+.navRight li{
+    color: white;
+    margin: 15px 25px auto 5px;
+    list-style: none;
+    display: inline;
+    float: right;
+}
+
+main >div{
+    width: 960px;
+    overflow: hidden;
+
+}
+
+.mainProdutos{
+    width: 643px;
+    background-color: white;
+    float: left;
+    
+}
+
+
+.produtos{
+    float: left;
+    width: 300px;
+    margin: 10px 10px 10px 10px;
+}
+.produtos h3{
+    margin: 5px;
+}
+.produtos p{
+    margin: 5px;
+}
+.button{
+    margin-top: 10px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    height: 25px;
+    width: 100px;
+}
+
+
+.menu-lateral{
+    width: 317px;
+    margin-left: 20px;
+    height: auto;
+}
+
+.tutorial{
+    width: 100%;
+    margin-left: 50px;
+    background-color: white;
+    float: left;
+    height: 40px;
+    margin-bottom: 20px;
+    
+}
+
+.tutorial p{
+    font-size: 20px;
+    margin: 10px auto 10px 10px;
+}
+
+#duas-colunas{
+    background-color: white;
+    width: 317px;
+    overflow: hidden;
+    margin-left: 50px;
+    height: 70px;
+    margin-top: auto;
+    margin-bottom: 2px;
+}
+
+#duas-colunas img{
+    margin: 5px;
+    float: left;
+}
+
+
+
+#duas-colunas p{
+    display: inline;
+    font-size: 15px;
+    margin-top: 25px;
+    float: left; 
+}
+
+.Publicidade{
+    width: 100%;
+    margin-left: 50px;
+    background-color: white;
+    float: left;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.Publicidade p{
+    font-size: 20px;
+    margin: 10px auto 10px 10px;
+}
+.propaganda{
+    width: 100%;
+    margin-left: 50px;
+    background-color: white;
+    float: left;
+}
+
+.propaganda img{
+    margin: 5px 5px auto 5px;
+}
+
